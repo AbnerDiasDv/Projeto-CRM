@@ -63,10 +63,10 @@ body {
 .bg-emerald-50 { background-color: #ecfdf5; }
 
 /* Cores de Texto */
-.text-white { color: #ffffff; }
-.text-slate-200 { color: #e2e8f0; }
+.text-white { color: #cfc9c9; }
+.text-slate-200 { color: #9694af; }
 .text-slate-300 { color: #cbd5e1; }
-.text-slate-400 { color: #94a3b8; }
+.text-slate-400 { color: #276fd3; }
 .text-slate-500 { color: #64748b; }
 .text-slate-800 { color: #1e293b; }
 .text-slate-900 { color: #0f172a; }
